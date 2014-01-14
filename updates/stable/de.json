@@ -7,16 +7,16 @@
         "downloadURL": "http://download.brackets.io",
         "newFeatures": [
             {
-                "name": "Neues Find/Replace UI",
-                "description": " Das \"Ersetzen\" Feature verwendet nun ein schlanke und aufgeräumte Oberfläche. Diese unterstützt die gleichen Funktionen wie \"Suchen\", einschließlich inkrementeller Suche und Hervorhebung. Neue Schaltflächen für Groß- und Kleinschreibung, Reguläre Ausdrücke und  für den vereinfachten Zugang in \"Suche\", \"Suche in Dateien\" und \"Ersetzen\" sind nun verfügbar."
+                "name": "Neue Suchen/Ersetzen-Oberfläche",
+                "description": "Die \"Ersetzen\"-Funktion verwendet nun ein schlanke und aufgeräumte Oberfläche. Diese unterstützt die gleichen Funktionen wie \"Suchen\", einschließlich inkrementeller Suche und Hervorhebung. Neue Schaltflächen für Groß- und Kleinschreibung, reguläre Ausdrücke und für den vereinfachten Zugang in \"Suche\", \"Suche in Dateien\" und \"Ersetzen\" sind nun verfügbar."
             },
             {
                 "name": "Starten der Live-Vorschau auf dem Mac",
-                "description": "Auf dem Mac braucht Chrome beim Start der Live-Vorschau nicht neu gestartet werden."
+                "description": "Auf dem Mac muss Chrome beim Start der Live-Vorschau nicht neu gestartet werden."
             },
             {
-                "name": "Schneller Start-up",
-                "description": "Brackets lädt jetzt bis zu 50% schneller durch minimierte JavaScript und vorkompiliertes LESS."
+                "name": "Schnellerer Programmstart",
+                "description": "Brackets lädt jetzt bis zu 50% schneller durch minimiertes JavaScript und vorkompiliertes LESS."
             }
         ]
     },
